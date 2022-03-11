@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("Thomas, Morten. Kom igang! Vi skal lave collab på GitHub");
 
-        System.out.println("Virker det nu?");
+        System.out.println("Nej");
     }
 }
